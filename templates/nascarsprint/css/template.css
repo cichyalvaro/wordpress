@@ -1,0 +1,99 @@
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_wrapper { }
+#wdb_spacer { height: 20px; background-image: url(../images/spacer.jpg); border-top: 1px solid #FFFFFF; background-color: #F0F0F0; }
+#wdb_spacer-bottom { height: 20px; background-image: url(../images/spacer_bottom.jpg); border-bottom: 1px solid #FFFFFF; background-color: #F0F0F0; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_sponsors-line { text-align: center; display: none; }
+#wdb_header-line { height: 100px; }
+#wdb_toolbar-line { height: 45px; }
+#wdb_banner-line { }
+#wdb_advert-line { }
+#wdb_body-line { }
+#wdb_footer-line { }
+#wdb_copy-line { height: 50px; }
+#wdb_sponsors-show { text-align: center; padding-top:10px; }
+#wdb_sponsors-hide { text-align: center; display: none; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_header-structure { width: 943px; height: 100px; margin: 0 auto; }
+#wdb_toolbar-structure { width: 943px; height: 45px; margin: 0 auto; }
+#wdb_body-structure { width: 943px; margin: 0 auto; }
+#wdb_banner-structure { width: 943px; margin: 0 auto; }
+#wdb_advert-structure { width: 943px; margin: 0 auto; }
+#wdb_copy-structure { width: 943px; margin: 0 auto; height: 50px; }
+#wdb_footer-structure { width: 943px; margin: 0 auto; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_banner-bg { width: 100%; float: left; padding-top: 10px; }
+#wdb_advert-bg { width: 100%; float: left; padding-bottom: 15px; background-color: #F0F0F0; }
+#wdb_advert-bg2 { width: 100%; float: left; background-color: #F0F0F0; }
+#wdb_body-bg { width: 100%; float: left; background-color: #F0F0F0; }
+#wdb_footer-bg { width: 100%; float: left; padding-top: 10px; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_user-left-inset, #wdb_user-right-inset, #wdb_user-left-only, #wdb_user-right-only { width: 728px; }
+#wdb_user-bg-left-inset, #wdb_user-bg-right-inset, #wdb_user-bg-left-only, #wdb_user-bg-right-only { width: 728px; float: left; border-bottom: 1px dashed #c0c0c0; margin-bottom: 10px; }
+#wdb_user-left-right-inset, #wdb_user-left-right { width: 513px; }
+#wdb_user-bg-left-right-inset, #wdb_user-bg-left-right { width: 513px; float: left; border-bottom: 1px dashed #c0c0c0; margin-bottom: 10px; }
+#wdb_user-inset-only, #wdb_user-wide { width: 943px; }
+#wdb_user-bg-inset-only, #wdb_user-bg-wide { width: 943px; float: left; border-bottom: 1px dashed #c0c0c0; margin-bottom: 10px; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_inside-left-only, #wdb_inside-right-only { width: 728px; }
+#wdb_inside-left-right { width: 513px; }
+#wdb_inside-wide { width: 943px; }
+#wdb_inside-left-inset, #wdb_inside-right-inset { width: 553px; }
+#wdb_inside-left-right-inset { width: 338px; }
+#wdb_inside-inset-only { width: 592px; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_logo { width: 350px; height: 100px; float: left; background-position: left center; background-repeat: no-repeat; }
+#wdb_menu { height: 35px; float: right; line-height: 2.9; }
+#wdb_search { float: right; height: 54px; }
+#wdb_toolbar { height: 45px; float: left; }
+#wdb_extra { height: 45px; float: right; }
+.wdb_show #wdb_copy { float: left; margin-top: 15px; }
+.wdb_show #wdb_design { float: right; margin-top: 15px; }
+.wdb_hide #wdb_design { display: none; }
+.wdb_hide #wdb_copy { margin-top: 15px; text-align: center; float: left; width: 943px; }
+#wdb_design-logo { height: 70px; text-align: center; }
+#wdb_no-logo { display: none; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_center-right-only { width: 728px; float: left; overflow: hidden; }
+#wdb_center-left-only { width: 728px; float: right; overflow: hidden; }
+#wdb_center-left-right { width: 513px; float: left; margin-left: 15px; overflow: hidden; }
+#wdb_center-right-inset { width: 728px; float: left; overflow: hidden; }
+#wdb_center-left-inset { width: 728px; float: right; overflow: hidden; }
+#wdb_center-left-right-inset { float: left; margin-left: 15px; width: 513px; overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+.insetleft #wdb_message-right-inset { 	float: right; width: 553px; overflow: hidden; }
+.insetright #wdb_message-right-inset { float: left; width: 553px; overflow: hidden; }
+.insetleft #wdb_message-left-inset { float: right; width: 553px; overflow: hidden; }
+.insetright #wdb_message-left-inset { float: left; width: 553px; overflow: hidden; }
+.insetleft #wdb_message-left-right-inset { float: right; width: 338px; overflow: hidden; }
+.insetright #wdb_message-left-right-inset { float: left; width: 338px; overflow: hidden; }
+.insetleft #wdb_message-inset-only { float: right; width: 592px; overflow: hidden; }
+.insetright #wdb_message-inset-only { float: left; width: 592px; overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_right-left-right-inset, #wdb_right-right-inset, #wdb_right-left-right, #wdb_right-right-only { width: 200px; float: right; overflow: hidden; }
+#wdb_left-left-right-inset, #wdb_left-left-inset, #wdb_left-left-right, #wdb_left-left-only { width: 200px; float: left; overflow: hidden; }
+.insetleft #wdb_inset-left-right-inset, .insetleft #wdb_inset-left-inset, .insetleft #wdb_inset-right-inset { float: left; width: 160px; overflow: hidden; }
+.insetright #wdb_inset-left-right-inset, .insetright #wdb_inset-left-inset, .insetright #wdb_inset-right-inset { float: right; width: 160px; overflow: hidden; }
+.insetleft #wdb_inset-inset-only { float: left; width: 336px; overflow: hidden; }
+.insetright #wdb_inset-inset-only { float: right; width: 336px; overflow: hidden; }
+#wdb_no-sponsors { text-align: center; display: none; }

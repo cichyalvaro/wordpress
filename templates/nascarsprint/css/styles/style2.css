@@ -1,0 +1,37 @@
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+body { background-color: #990000; }
+#wdb_logo { background-image: url(../../images/red/logo.jpg); }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_menu a:link, #wdb_menu a:visited { color: #FFFFFF; }
+#wdb_menu a:hover { color: #C7C7C7; }
+.wdb_footer a:link, .wdb_footer a:visited, #wdb_design a:link, #wdb_design a:visited { color: #E5E5E5; }
+#style2 #wdb_toolbar .menu li.active a, #style2 #wdb_toolbar .menu li.active a:hover, #style2 #wdb_toolbar .menu li.active a:active, #style2 #wdb_toolbar .menu li.active a:focus { background-image: url(../../images/red/toolbar_current.jpg); color: #FFFFFF; }
+#style2 #wdb_toolbar ul.menu li:hover { background-image: url(../../images/red/toolbar_hover.jpg); }
+#style2 #wdb_toolbar ul.menu li li:hover { background: none; }
+#style2 #wdb_toolbar .menu li li a:link, #style2 #wdb_toolbar .menu li li a:visited { color: #FFFFFF; font-size: 12px; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_header-line { background-image: url(../../images/red/header_bg.jpg); border-bottom: 3px solid #000000; }
+#wdb_toolbar-line { background-color: #990000; }
+#wdb_copy-line { background-color: #990000; }
+#wdb_banner-bg { border-bottom: 3px solid #000000; }
+#wdb_footer-bg { background-color: #990000; }
+#wdb_design-logo { background-color: #990000; }
+#wdb_footer-structure { color: #E5E5E5; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_extra .inputbox, #wdb_search .inputbox { border: 2px solid #000000; }
+#wdb_extra input.button, #wdb_search input.button { background-image: url(../../images/black_button.jpg); color: #FFFFFF; border: 1px solid #585858; }
+#style2 ul.pagenav { background: none; border: none; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+.wdb_show #wdb_copy { color: #FFFFFF; }
+.wdb_show #wdb_design { color: #FFFFFF; }
+.wdb_hide #wdb_copy { color: #FFFFFF; }

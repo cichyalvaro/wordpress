@@ -1,0 +1,7 @@
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_menu .menu img { margin-right: 7px; height: 17px; }
+#wdb_inset-inset-only .userdata #modlgn-username, #wdb_inset-inset-only .userdata #modlgn-passwd { display: inline; }
+#wdb_inset-inset-only form#login-form #modlgn-username { margin-left: 10px; }
+#wdb_inset-inset-only form#login-form #modlgn-passwd { margin-left: 18px; }

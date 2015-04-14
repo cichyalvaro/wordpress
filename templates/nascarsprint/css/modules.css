@@ -1,0 +1,110 @@
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+.banner33 .first { width: 307px; float: left; padding-bottom: 10px; }
+.banner33 .second { width: 307px; float: left; margin-left: 11px; padding-bottom: 10px; }
+.banner33 .third { width: 307px; float: right; padding-bottom: 10px; }
+.banner49 .first { width: 466px; float: left; padding-bottom: 10px; }
+.banner49 .second { width: 466px; float: right; padding-bottom: 10px; }
+.banner99 .full { width: 943px; float: left; padding-bottom: 10px; }
+.banner33 .first, .banner33 .second, .banner33 .third, .banner49 .first, .banner49 .second, .banner99 .full { overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_user-left-inset .user33 .first, #wdb_user-right-inset .user33 .first, #wdb_user-left-only .user33 .first, #wdb_user-right-only .user33 .first { width: 236px; float: left; padding-bottom: 10px; }
+#wdb_user-left-inset .user33 .second, #wdb_user-right-inset .user33 .second, #wdb_user-left-only .user33 .second, #wdb_user-right-only .user33 .second { width: 236px; float: left; margin-left: 10px; padding-bottom: 10px; }
+#wdb_user-left-inset .user33 .third, #wdb_user-right-inset .user33 .third, #wdb_user-left-only .user33 .third, #wdb_user-right-only .user33 .third { width: 236px; float: right; padding-bottom: 10px; }
+#wdb_user-left-inset .user49 .first, #wdb_user-right-inset .user49 .first, #wdb_user-left-only .user49 .first, #wdb_user-right-only .user49 .first { width: 359px; float: left; padding-bottom: 10px; }
+#wdb_user-left-inset .user49 .second, #wdb_user-right-inset .user49 .second, #wdb_user-left-only .user49 .second, #wdb_user-right-only .user49 .second { width: 359px; float: right; padding-bottom: 10px; }
+#wdb_user-left-inset .user99 .full, #wdb_user-right-inset .user99 .full, #wdb_user-left-only .user99 .full, #wdb_user-right-only .user99 .full { width: 728px; float: left; padding-bottom: 10px; }
+#wdb_user-left-right-inset .user33 .first, #wdb_user-left-right .user33 .first { width: 164px; float: left; padding-bottom: 10px; }
+#wdb_user-left-right-inset .user33 .second, #wdb_user-left-right .user33 .second { width: 164px; float: left; padding-bottom: 10px; margin-left: 10px; }
+#wdb_user-left-right-inset .user33 .third, #wdb_user-left-right .user33 .third { width: 164px; float: right; padding-bottom: 10px; }
+#wdb_user-left-right-inset .user49 .first, #wdb_user-left-right .user49 .first { width: 251px; float: left; padding-bottom: 10px; }
+#wdb_user-left-right-inset .user49 .second, #wdb_user-left-right .user49 .second { width: 251px; float: right; padding-bottom: 10px; }
+#wdb_user-left-right-inset .user99 .full, #wdb_user-left-right .user99 .full { width: 513px; float: left; padding-bottom: 10px; }
+#wdb_user-inset-only .user33 .first, #wdb_user-wide .user33 .first { width: 307px; float: left; padding-bottom: 10px; }
+#wdb_user-inset-only .user33 .second, #wdb_user-wide .user33 .second { width: 307px; float: left; padding-bottom: 10px; margin-left: 11px; }
+#wdb_user-inset-only .user33 .third, #wdb_user-wide .user33 .third { width: 307px; float: right; padding-bottom: 10px; }
+#wdb_user-inset-only .user49 .first, #wdb_user-wide .user49 .first { width: 466px; float: left; padding-bottom: 10px; }
+#wdb_user-inset-only .user49 .second, #wdb_user-wide .user49 .second { width: 466px; float: right; padding-bottom: 10px; }
+#wdb_user-inset-only .user99 .full, #wdb_user-wide .user99 .full { width: 943px; float: left; padding-bottom: 10px; }
+#wdb_user-left-inset .user33 .first, #wdb_user-right-inset .user33 .first, #wdb_user-left-only .user33 .first, #wdb_user-right-only .user33 .first, #wdb_user-left-inset .user33 .second, #wdb_user-right-inset .user33 .second, #wdb_user-left-only .user33 .second, #wdb_user-right-only .user33 .second, #wdb_user-left-inset .user33 .third, #wdb_user-right-inset .user33 .third, #wdb_user-left-only .user33 .third, #wdb_user-right-only .user33 .third, #wdb_user-left-inset .user49 .first, #wdb_user-right-inset .user49 .first, #wdb_user-left-only .user49 .first, #wdb_user-right-only .user49 .first, #wdb_user-left-inset .user49 .second, #wdb_user-right-inset .user49 .second, #wdb_user-left-only .user49 .second, #wdb_user-right-only .user49 .second, #wdb_user-left-inset .user99 .full, #wdb_user-right-inset .user99 .full, #wdb_user-left-only .user99 .full, #wdb_user-right-only .user99 .full, #wdb_user-left-right-inset .user33 .first, #wdb_user-left-right .user33 .first, #wdb_user-left-right-inset .user33 .second, #wdb_user-left-right .user33 .second, #wdb_user-left-right-inset .user33 .third, #wdb_user-left-right .user33 .third, #wdb_user-left-right-inset .user49 .first, #wdb_user-left-right .user49 .first, #wdb_user-left-right-inset .user49 .second, #wdb_user-left-right .user49 .second, #wdb_user-left-right-inset .user99 .full, #wdb_user-left-right .user99 .full, #wdb_user-inset-only .user33 .first, #wdb_user-wide .user33 .first, #wdb_user-inset-only .user33 .second, #wdb_user-wide .user33 .second, #wdb_user-inset-only .user33 .third, #wdb_user-wide .user33 .third, #wdb_user-inset-only .user49 .first, #wdb_user-wide .user49 .first, #wdb_user-inset-only .user49 .second, #wdb_user-wide .user49 .second, #wdb_user-inset-only .user99 .full, #wdb_user-wide .user99 .full { overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+.advert19 .first { width: 180px; float: left; }
+.advert19 .second { width: 180px; float: left; margin-left: 11px; }
+.advert19 .third { width: 180px; float: left; margin-left: 11px; }
+.advert19 .forth { width: 180px; float: left; margin-left: 11px; }
+.advert19 .fifth { width: 180px; float: right; }
+.advert24 .first { width: 228px; float: left; }
+.advert24 .second { width: 228px; float: left; margin-left: 10px; }
+.advert24 .third { width: 228px; float: left; margin-left: 10px; }
+.advert24 .forth { width: 228px; float: right; }
+.advert33 .first { width: 307px; float: left; }
+.advert33 .second { width: 307px; float: left; margin-left: 11px; }
+.advert33 .third { width: 307px; float: right; }
+.advert49 .first { width: 466px; float: left; }
+.advert49 .second { width: 466px; float: right; }
+.advert99 .full { width: 943px; float: left; }
+.advert19 .first, .advert19 .second, .advert19 .third, .advert19 .forth, .advert19 .fifth, .advert24 .first, .advert24 .second, .advert24 .third, .advert24 .forth, .advert33 .first, .advert33 .second, .advert33 .third, .advert49 .first, .advert49 .second, .advert99 .full { overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_inside-left-only .inside33 .first, #wdb_inside-right-only .inside33 .first { width: 236px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-only .inside33 .second, #wdb_inside-right-only .inside33 .second { width: 236px; float: left; margin-left: 10px; padding-bottom: 10px; }
+#wdb_inside-left-only .inside33 .third, #wdb_inside-right-only .inside33 .third { width: 236px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-only .inside49 .first, #wdb_inside-right-only .inside49 .first { width: 359px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-only .inside49 .second, #wdb_inside-right-only .inside49 .second { width: 359px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-only .inside99 .full, #wdb_inside-right-only .inside99 .full { width: 728px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right .inside33 .first { width: 164px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right .inside33 .second { width: 164px; float: left; padding-bottom: 10px; margin-left: 10px; }
+#wdb_inside-left-right .inside33 .third { width: 164px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-right .inside49 .first { width: 251px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right .inside49 .second { width: 251px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-right .inside99 .full { width: 513px; float: left; padding-bottom: 10px; }
+#wdb_inside-wide .inside33 .first { width: 307px; float: left; padding-bottom: 10px; }
+#wdb_inside-wide .inside33 .second { width: 307px; float: left; padding-bottom: 10px; margin-left: 11px; }
+#wdb_inside-wide .inside33 .third { width: 307px; float: right; padding-bottom: 10px; }
+#wdb_inside-wide .inside49 .first { width: 466px; float: left; padding-bottom: 10px; }
+#wdb_inside-wide .inside49 .second { width: 466px; float: right; padding-bottom: 10px; }
+#wdb_inside-wide .inside99 .full { width: 943px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-inset .inside33 .first, #wdb_inside-right-inset .inside33 .first { width: 177px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-inset .inside33 .second, #wdb_inside-right-inset .inside33 .second { width: 177px; float: left; padding-bottom: 10px; margin-left: 11px; }
+#wdb_inside-left-inset .inside33 .third, #wdb_inside-right-inset .inside33 .third { width: 177px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-inset .inside49 .first, #wdb_inside-right-inset .inside49 .first { width: 271px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-inset .inside49 .second, #wdb_inside-right-inset .inside49 .second { width: 271px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-inset .inside99 .full, #wdb_inside-right-inset .inside99 .full { width: 553px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right-inset .inside33 .first { width: 106px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right-inset .inside33 .second { width: 106px; float: left; padding-bottom: 10px; margin-left: 10px; }
+#wdb_inside-left-right-inset .inside33 .third { width: 106px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-right-inset .inside49 .first { width: 164px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-right-inset .inside49 .second { width: 164px; float: right; padding-bottom: 10px; }
+#wdb_inside-left-right-inset .inside99 .full { width: 338px; float: left; padding-bottom: 10px; }
+#wdb_inside-inset-only .inside33 .first { width: 190px; float: left; padding-bottom: 10px; }
+#wdb_inside-inset-only .inside33 .second { width: 190px; float: left; padding-bottom: 10px; margin-left: 11px; }
+#wdb_inside-inset-only .inside33 .third { width: 190px; float: right; padding-bottom: 10px; }
+#wdb_inside-inset-only .inside49 .first { width: 291px; float: left; padding-bottom: 10px; }
+#wdb_inside-inset-only .inside49 .second { width: 291px; float: right; padding-bottom: 10px; }
+#wdb_inside-inset-only .inside99 .full { width: 592px; float: left; padding-bottom: 10px; }
+#wdb_inside-left-only .inside33 .first, #wdb_inside-right-only .inside33 .first, #wdb_inside-left-only .inside33 .second, #wdb_inside-right-only .inside33 .second, #wdb_inside-left-only .inside33 .third, #wdb_inside-right-only .inside33 .third, #wdb_inside-left-only .inside49 .first, #wdb_inside-right-only .inside49 .first, #wdb_inside-left-only .inside49 .second, #wdb_inside-right-only .inside49 .second, #wdb_inside-left-only .inside99 .full, #wdb_inside-right-only .inside99 .full, #wdb_inside-left-right .inside33 .first, #wdb_inside-left-right .inside33 .second, #wdb_inside-left-right .inside33 .third, #wdb_inside-left-right .inside49 .first, #wdb_inside-left-right .inside49 .second, #wdb_inside-left-right .inside99 .full, #wdb_inside-wide .inside33 .first, #wdb_inside-wide .inside33 .second, #wdb_inside-wide .inside33 .third, #wdb_inside-wide .inside49 .first, #wdb_inside-wide .inside49 .second, #wdb_inside-wide .inside99 .full, #wdb_inside-left-inset .inside33 .first, #wdb_inside-right-inset .inside33 .first, #wdb_inside-left-inset .inside33 .second, #wdb_inside-right-inset .inside33 .second, #wdb_inside-left-inset .inside33 .third, #wdb_inside-right-inset .inside33 .third, #wdb_inside-left-inset .inside49 .first, #wdb_inside-right-inset .inside49 .first, #wdb_inside-left-inset .inside49 .second, #wdb_inside-right-inset .inside49 .second, #wdb_inside-left-inset .inside99 .full, #wdb_inside-right-inset .inside99 .full, #wdb_inside-left-right-inset .inside33 .first, #wdb_inside-left-right-inset .inside33 .second, #wdb_inside-left-right-inset .inside33 .third, #wdb_inside-left-right-inset .inside49 .first, #wdb_inside-left-right-inset .inside49 .second, #wdb_inside-left-right-inset .inside99 .full, #wdb_inside-inset-only .inside33 .first, #wdb_inside-inset-only .inside33 .second, #wdb_inside-inset-only .inside33 .third, #wdb_inside-inset-only .inside49 .first, #wdb_inside-inset-only .inside49 .second, #wdb_inside-inset-only .inside99 .full { overflow: hidden; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+.footer19 .first { width: 180px; float: left; }
+.footer19 .second { width: 180px; float: left; margin-left: 11px; }
+.footer19 .third { width: 180px; float: left; margin-left: 11px; }
+.footer19 .forth { width: 180px; float: left; margin-left: 11px; }
+.footer19 .fifth { width: 180px; float: right; }
+.footer24 .first { width: 228px; float: left; }
+.footer24 .second { width: 228px; float: left; margin-left: 10px; }
+.footer24 .third { width: 228px; float: left; margin-left: 10px; }
+.footer24 .forth { width: 228px; float: right; }
+.footer33 .first { width: 307px; float: left; }
+.footer33 .second { width: 307px; float: left; margin-left: 11px; }
+.footer33 .third { width: 307px; float: right; }
+.footer49 .first { width: 466px; float: left; }
+.footer49 .second { width: 466px; float: right; }
+.footer99 .full { width: 943px; float: left; }
+.footer19 .first, .footer19 .second, .footer19 .third, .footer19 .forth, .footer19 .fifth, .footer24 .first, .footer24 .second, .footer24 .third, .footer24 .forth, .footer33 .first, .footer33 .second, .footer33 .third, .footer49 .first, .footer49 .second, .footer99 .full { overflow: hidden; }

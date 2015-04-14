@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>Nascar Sprint</name>
+	<version>2.5.0</version>
+	<creationDate>July 2011</creationDate>
+	<author>EfrenPedroJr</author>
+	<authorEmail>jadecomputerworks@yahoo.com</authorEmail>
+	<authorUrl>http://www.webdesignbuilders.net</authorUrl>
+	<copyright>WebDesignBuilders</copyright>
+	<license>GPL</license>
+	<description><![CDATA[Web Design Builders Template<br />Nascar Sprint<br /><br />Local Site : <a href="http://www.web-design.ph" target="_blank">Web Design Philippines</a><br />International : <a href="http://www.webdesignbuilders.net" target="_blank">Web Design Builders</a>]]></description>
+	<files>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>params.ini</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>favicon.ico</filename>
+		<folder>views</folder>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>search</position>
+		<position>menu</position>
+		<position>banner</position>
+		<position>banner2</position>
+		<position>banner3</position>
+		<position>toolbar</position>
+		<position>extra</position>
+		<position>advert1</position>
+		<position>advert2</position>
+		<position>advert3</position>
+		<position>advert4</position>
+		<position>advert5</position>
+		<position>left</position>
+		<position>right</position>
+		<position>inset</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>user6</position>
+		<position>user7</position>
+		<position>user8</position>
+		<position>user9</position>
+		<position>inside1</position>
+		<position>inside2</position>
+		<position>inside3</position>
+		<position>inside4</position>
+		<position>inside5</position>
+		<position>inside6</position>
+		<position>inside7</position>
+		<position>inside8</position>
+		<position>inside9</position>
+		<position>footer1</position>
+		<position>footer2</position>
+		<position>footer3</position>
+		<position>footer4</position>
+		<position>footer5</position>
+	</positions>
+	<params>
+		<param type="spacer" default="NAVIGATION SYSTEM " />
+			<param name="fontfamily" type="list" default="ff1" label="FONT FAMILY">
+			<option value="ff1"> ARIAL</option>
+			<option value="ff2"> TIMES NEW ROMAN</option>
+			<option value="ff3"> COURIER NEW</option>
+			<option value="ff4"> GEORGIA</option>
+			<option value="ff5"> VERDANA</option>
+			<option value="ff6"> GENEVA</option>
+			<option value="ff7"> BOOK ANTIQUA</option>
+		</param>
+		<param name="menutype" type="list" default="moomenu" label="TOOLBAR">
+			<option value="suckerfish"> SUCKER FISH</option>
+			<option value="moomenu"> MOO MENU</option>
+		</param>
+		<param type="spacer" default="BODY CONFIGURATION " />
+		<param name="presetstyle" type="list" default="style1" label="PRESET STYLE">
+			<option value="style1"> BLACK</option>
+			<option value="style2"> RED</option>
+			<option value="style3"> YELLOW</option>
+			<option value="style4"> SILVER</option>
+			<option value="style5"> BLUE</option>
+		</param>
+		<param name="bannercolor" type="text" default="#FFFFFF" label=" BANNER BG">
+		</param>
+		<param name="bannerfontcolor" type="text" default="#000000" label=" BANNER COLOR">
+		</param>
+		<param name="insetposition" type="radio" default="insetleft" label="INSET POSITION">
+			<option value="insetleft"> LEFT</option>
+			<option value="insetright"> RIGHT</option>
+		</param>
+		<param name="readmore" type="list" default="box" label="READ MORE">
+			<option value="none"> NONE</option>
+			<option value="box"> BOX</option>
+		</param>
+		<param type="spacer" default="OTHER CONFIGURATION " />
+		<param name="designby" type="list" default="show" label="DESIGN BY">
+			<option value="show"> SHOW</option>
+			<option value="hide"> HIDE</option>
+		</param>
+		<param name="designbylabel" type="text" default="Place your Website" label=" DESIGN LABEL">
+		</param>
+		<param name="designbylink" type="text" default="Place your Web Link" label=" DESIGN LINK">
+		</param>
+		<param name="designbytarget" type="list" default="blank" label="DESIGN TARGET">
+			<option value="blank"> BLANK</option>
+			<option value="self"> SELF</option>
+		</param>
+		<param name="copy" type="text" default="2011 Nascar Sprint" label=" COPYRIGHT">
+		</param>
+		<param name="googlekey" type="text" default="" label=" GOOGLE VERIFY">
+		</param>
+		<param name="yahookey" type="text" default="" label=" YAHOO KEY">
+		</param>
+		<param name="sponsorlinks" type="list" default="sponsors-show" label="SPONSORS LINKS">
+			<option value="sponsors-show"> SHOW</option>
+			<option value="sponsors-hide"> HIDE</option>
+		</param>
+	</params>
+	<config>
+	<fields name="params">
+		<fieldset name="Basic" label="BASIC CONFIGURATION ">
+			<field name="fontfamily" type="list" default="ff1" label="FONT FAMILY">
+			<option value="ff1"> ARIAL</option>
+			<option value="ff2"> TIMES NEW ROMAN</option>
+			<option value="ff3"> COURIER NEW</option>
+			<option value="ff4"> GEORGIA</option>
+			<option value="ff5"> VERDANA</option>
+			<option value="ff6"> GENEVA</option>
+			<option value="ff7"> BOOK ANTIQUA</option>
+		</field>
+		<field name="menutype" type="list" default="mootools" label="TOOLBAR">
+			<option value="suckerfish"> SUCKER FISH</option>
+			<option value="mootools"> MOO MENU</option>
+		</field>
+		</fieldset>
+		<fieldset name="Body" label="BODY CONFIGURATION ">
+		<field name="presetstyle" type="list" default="style1" label="PRESET STYLE">
+			<option value="style1"> BLACK</option>
+			<option value="style2"> RED</option>
+			<option value="style3"> YELLOW</option>
+			<option value="style4"> SILVER</option>
+			<option value="style5"> BLUE</option>
+		</field>
+		<field name="bannercolor" type="text" default="#A2A2A2" label=" BANNER BG">
+		</field>
+		<field name="bannerfontcolor" type="text" default="#464646" label=" BANNER COLOR">
+		</field>
+		<field name="insetposition" type="radio" default="insetleft" label="INSET POSITION">
+			<option value="insetleft"> LEFT</option>
+			<option value="insetright"> RIGHT</option>
+		</field>
+		<field name="readmore" type="list" default="box" label="READ MORE">
+			<option value="none"> NONE</option>
+			<option value="box"> BOX</option>
+		</field>
+		</fieldset>
+		<fieldset name="Other" label="OTHER CONFIGURATION ">
+		<field name="designby" type="list" default="show" label="DESIGN BY">
+			<option value="show"> SHOW</option>
+			<option value="hide"> HIDE</option>
+		</field>
+		<field name="designbylabel" type="text" default="Place your Website" label=" DESIGN LABEL">
+		</field>
+		<field name="designbylink" type="text" default="Place your Web Link" label=" DESIGN LINK">
+		</field>
+		<field name="designbytarget" type="list" default="blank" label="DESIGN TARGET">
+			<option value="blank"> BLANK</option>
+			<option value="self"> SELF</option>
+		</field>
+		<field name="copy" type="text" default="2011 Nascar Sprint" label=" COPYRIGHT">
+		</field>
+		<field name="googlekey" type="text" default="" label=" GOOGLE VERIFY">
+		</field>
+		<field name="yahookey" type="text" default="" label=" YAHOO KEY">
+		</field>
+		<field name="sponsorlinks" type="list" default="sponsors-show" label="SPONSORS LINKS">
+			<option value="sponsors-show"> SHOW</option>
+			<option value="sponsors-hide"> HIDE</option>
+		</field>
+		</fieldset>
+	</fields>
+	</config>
+</install>

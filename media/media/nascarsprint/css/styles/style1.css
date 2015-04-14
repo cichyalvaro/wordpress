@@ -1,0 +1,30 @@
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+body { background-color: #282828; }
+#wdb_logo { background-image: url(../../images/black/logo.jpg); }
+#wdb_menu a:link, #wdb_menu a:visited { color: #FFFFFF; }
+#wdb_menu a:hover { color: #FF7777; }
+.wdb_footer a:link, .wdb_footer a:visited, #wdb_design a:link, #wdb_design a:visited { color: #E5E5E5; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_header-line { background-image: url(../../images/black/header_bg.jpg); border-bottom: 3px solid #990000; }
+#wdb_toolbar-line { background-color: #000000; }
+#wdb_copy-line { background-color: #282828; }
+#wdb_banner-bg { border-bottom: 3px solid #990000; }
+#wdb_footer-bg { background-color: #282828; }
+#wdb_design-logo { background-color: #282828; }
+#wdb_footer-structure { color: #E5E5E5; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_extra .inputbox, #wdb_search .inputbox { border: 2px solid #990000; }
+#wdb_extra input.button, #wdb_search input.button { background-image: url(../../images/red_button.jpg); color: #FFFFFF; border: 1px solid #585858; }
+#style1 ul.pagenav { background: none; border: none; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+.wdb_show #wdb_copy { color: #FFFFFF; }
+.wdb_show #wdb_design { color: #FFFFFF; }
+.wdb_hide #wdb_copy { color: #FFFFFF; }

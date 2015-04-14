@@ -1,0 +1,44 @@
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+body { background-color: #B4BAC5; }
+#wdb_logo { background-image: url(../../images/silver/logo.jpg); }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_menu a:link, #wdb_menu a:visited { color: #000000; }
+#wdb_menu a:hover { color: #990000; }
+.wdb_footer a:link, .wdb_footer a:visited, #wdb_design a:link, #wdb_design a:visited { color: #000000; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#style4 #wdb_toolbar .menu a:link, #style4 #wdb_toolbar .menu a:visited { color: #000000; }
+#style4 #wdb_toolbar .menu li.active a, #style4 #wdb_toolbar .menu li.active a:hover, #style4 #wdb_toolbar .menu li.active a:active, #style4 #wdb_toolbar .menu li.active a:focus { background-image: url(../../images/silver/toolbar_current.jpg); color: #FFFFFF; }
+#style4 #wdb_toolbar .menu li:hover { background-image: url(../../images/silver/toolbar_hover.jpg); color: #FFFFFF; }
+#style4 #wdb_toolbar ul.menu li li:hover { background: none; }
+#style4 #wdb_toolbar .menu ul { background-color: #E1E1E1; }
+#style4 #wdb_toolbar .menu li li a:link, #style4 #wdb_toolbar .menu li li a:visited { color: #000000; font-size: 12px; }
+#style4 #wdb_toolbar .menu ul ul { background-color: #FFFFFF; }
+#style4 #wdb_toolbar ul.menu li.active li a, #style4 #wdb_toolbar ul.menu li.active li a:hover, #style4 #wdb_toolbar ul.menu li.active li a:active, #style4 #wdb_toolbar ul.menu li.active li a:focus { background: none !important; color: #000000; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_header-line { background-image: url(../../images/silver/header_bg.jpg); border-bottom: 3px solid #69707c; }
+#wdb_toolbar-line { background-color: #B4BAC5; }
+#wdb_copy-line { background-color: #B4BAC5; }
+#wdb_banner-bg { border-bottom: 3px solid #69707c; }
+#wdb_footer-bg { background-color: #B4BAC5; }
+#wdb_design-logo { background-color: #B4BAC5; }
+#wdb_footer-structure { color: #000000; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#wdb_extra .inputbox, #wdb_search .inputbox { border: 2px solid #69707c; }
+#wdb_extra input.button, #wdb_search input.button { background-image: url(../../images/gray_button.jpg); color: #4D4D4D; border: 1px solid #69707c; }
+#style3 ul.pagenav { background: none; border: none; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+.wdb_show #wdb_copy { color: #000000; }
+.wdb_show #wdb_design { color: #000000; }
+.wdb_hide #wdb_copy { color: #000000; }

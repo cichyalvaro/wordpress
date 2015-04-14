@@ -1,0 +1,95 @@
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+body { margin: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.6; color: #4D4D4D; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_menu a:link, #wdb_menu a:visited { display: block; }
+#wdb_menu .menu li { float: left; margin-left: 15px; }
+#wdb_menu a:hover { color: #FF7777; }
+#wdb_menu .menu li li { display: none; }
+.wdb_inside a:link, .wdb_inside a:visited, .wdb_advert a:link, .wdb_advert a:visited, .wdb_user a:link, .wdb_user a:visited, #wdb_support a:link, #wdb_support a:visited, #wdb_inset-inset-only a:link, #wdb_inset-inset-only a:visited, #wdb_right-left-right-inset a:link, #wdb_right-left-right-inset a:visited, #wdb_left-left-right-inset a:link, #wdb_left-left-right-inset a:visited, #wdb_inset-left-right-inset a:link, #wdb_inset-left-right-inset a:visited, #wdb_inset-left-inset a:link, #wdb_inset-left-inset a:visited, #wdb_left-left-inset a:link, #wdb_left-left-inset a:visited, #wdb_inset-right-inset a:link, #wdb_inset-right-inset a:visited, #wdb_right-right-inset a:link, #wdb_right-right-inset a:visited, #wdb_right-left-right a:link, #wdb_right-left-right a:visited, #wdb_left-left-right a:link, #wdb_left-left-right a:visited, #wdb_left-left-only a:link, #wdb_left-left-only a:visited, #wdb_right-right-only a:link, #wdb_right-right-only a:visited { color: #4D4D4D; }
+#wdb_inset-inset-only .menu li a:link, #wdb_inset-inset-only .menu li a:visited, #wdb_right-left-right-inset .menu li a:link, #wdb_right-left-right-inset .menu li a:visited, #wdb_left-left-right-inset .menu li a:link, #wdb_left-left-right-inset .menu li a:visited, #wdb_inset-left-right-inset .menu li a:link, #wdb_inset-left-right-inset .menu li a:visited, #wdb_inset-left-inset .menu li a:link, #wdb_inset-left-inset .menu li a:visited, #wdb_left-left-inset .menu li a:link, #wdb_left-left-inset .menu li a:visited, #wdb_inset-right-inset .menu li a:link, #wdb_inset-right-inset .menu li a:visited, #wdb_right-right-inset .menu li a:link, #wdb_right-right-inset .menu li a:visited, #wdb_right-left-right .menu li a:link, #wdb_right-left-right .menu li a:visited, #wdb_left-left-right .menu li a:link, #wdb_left-left-right .menu li a:visited, #wdb_left-left-only .menu li a:link, #wdb_left-left-only .menu li a:visited, #wdb_right-right-only .menu li a:link, #wdb_right-right-only .menu li a:visited { display: block; background-color: #E4E4E4; padding: 3px 10px 3px 10px; border-bottom: 1px solid #cfcfcf; }
+#wdb_inset-inset-only .menu li li a:link, #wdb_inset-inset-only .menu li li a:visited, #wdb_right-left-right-inset .menu li li a:link, #wdb_right-left-right-inset .menu li li a:visited, #wdb_left-left-right-inset .menu li li a:link, #wdb_left-left-right-inset .menu li li a:visited, #wdb_inset-left-right-inset .menu li li a:link, #wdb_inset-left-right-inset .menu li li a:visited, #wdb_inset-left-inset .menu li li a:link, #wdb_inset-left-inset .menu li li a:visited, #wdb_left-left-inset .menu li li a:link, #wdb_left-left-inset .menu li li a:visited, #wdb_inset-right-inset .menu li li a:link, #wdb_inset-right-inset .menu li li a:visited, #wdb_right-right-inset .menu li li a:link, #wdb_right-right-inset .menu li li a:visited, #wdb_right-left-right .menu li li a:link, #wdb_right-left-right .menu li li a:visited, #wdb_left-left-right .menu li li a:link, #wdb_left-left-right .menu li li a:visited, #wdb_left-left-only .menu li li a:link, #wdb_left-left-only .menu li li a:visited, #wdb_right-right-only .menu li li a:link, #wdb_right-right-only .menu li li a:visited { display: block; background-color: #F0F0F0;  padding: 3px 10px 3px 10px; border-bottom: 1px solid #cfcfcf; }
+#wdb_inset-inset-only .menu li a:hover, #wdb_right-left-right-inset .menu li a:hover, #wdb_left-left-right-inset .menu li a:hover, #wdb_inset-left-right-inset .menu li a:hover, #wdb_inset-left-inset .menu li a:hover, #wdb_left-left-inset .menu li a:hover, #wdb_inset-right-inset .menu li a:hover, #wdb_right-right-inset .menu li a:hover, #wdb_right-left-right .menu li a:hover, #wdb_left-left-right .menu li a:hover, #wdb_left-left-only .menu li a:hover, #wdb_right-right-only .menu li a:hover { display: block; background-color: #990000; padding: 3px 10px 3px 10px; border-bottom: 1px solid #cfcfcf; color: #FFFFFF; }
+#wdb_inset-inset-only .menu li li a:hover, #wdb_right-left-right-inset .menu li li a:hover, #wdb_left-left-right-inset .menu li li a:hover, #wdb_inset-left-right-inset .menu li li a:hover, #wdb_inset-left-inset .menu li li a:hover, #wdb_left-left-inset .menu li li a:hover, #wdb_inset-right-inset .menu li li a:hover, #wdb_right-right-inset .menu li li a:hover, #wdb_right-left-right .menu li li a:hover, #wdb_left-left-right .menu li li a:hover, #wdb_left-left-only .menu li li a:hover, #wdb_right-right-only .menu li li a:hover { display: block; background-color: #000000; padding: 3px 10px 3px 10px; border-bottom: 1px solid #cfcfcf; color: #FFFFFF; }
+#wdb_extra a:link, #wdb_extra a:visited { color: #E5E5E5; }
+#wdb_extra .menu li { float: left; border: 1px solid #6a6a6a; padding: 2px 7px 2px 7px; margin: 9px 0px 0px 5px; background-position: center; background-color: #464646; }
+#wdb_extra .menu li li { display: none; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_inset-inset-only .moduletable_menu, #wdb_right-left-right-inset .moduletable_menu, #wdb_left-left-right-inset .moduletable_menu, #wdb_inset-left-right-inset .moduletable_menu, #wdb_inset-left-inset .moduletable_menu, #wdb_left-left-inset .moduletable_menu, #wdb_inset-right-inset .moduletable_menu, #wdb_right-right-inset .moduletable_menu, #wdb_left-left-right .moduletable_menu, #wdb_right-left-right .moduletable_menu, #wdb_left-left-only .moduletable_menu, #wdb_right-right-only .moduletable_menu, #wdb_inset-inset-only .moduletable, #wdb_right-left-right-inset .moduletable, #wdb_left-left-right-inset .moduletable, #wdb_inset-left-right-inset .moduletable, #wdb_inset-left-inset .moduletable, #wdb_left-left-inset .moduletable, #wdb_inset-right-inset .moduletable, #wdb_right-right-inset .moduletable, #wdb_left-left-right .moduletable, #wdb_right-left-right .moduletable, #wdb_left-left-only .moduletable, #wdb_right-right-only .moduletable { margin-bottom: 15px; }
+.wdb_inside h3, .wdb_advert h3, .wdb_user h3, #wdb_inset-inset-only .moduletable_menu h3, #wdb_right-left-right-inset .moduletable_menu h3, #wdb_left-left-right-inset .moduletable_menu h3, #wdb_inset-left-right-inset .moduletable_menu h3, #wdb_inset-left-inset .moduletable_menu h3, #wdb_left-left-inset .moduletable_menu h3, #wdb_inset-right-inset .moduletable_menu h3, #wdb_right-right-inset .moduletable_menu h3, #wdb_left-left-right .moduletable_menu h3, #wdb_right-left-right .moduletable_menu h3, #wdb_left-left-only .moduletable_menu h3, #wdb_right-right-only .moduletable_menu h3, #wdb_inset-inset-only .moduletable h3, #wdb_right-left-right-inset .moduletable h3, #wdb_left-left-right-inset .moduletable h3, #wdb_inset-left-right-inset .moduletable h3, #wdb_inset-left-inset .moduletable h3, #wdb_left-left-inset .moduletable h3, #wdb_inset-right-inset .moduletable h3, #wdb_right-right-inset .moduletable h3, #wdb_left-left-right .moduletable h3, #wdb_right-left-right .moduletable h3, #wdb_left-left-only .moduletable h3, #wdb_right-right-only .moduletable h3 { padding-bottom: 5px; margin-bottom: 5px; border-bottom: 1px dashed #c0c0c0; }
+.search h1, .item-page h1, .contact h1, .blog h1, .blog-featured h1, .componentheading { padding-bottom: 5px; margin-bottom: 10px; border-bottom: 1px dashed #c0c0c0; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+form#login-form, form#form-login { border: 1px solid #FFFFFF; padding: 10px; background-color: #e3e3e3; }
+#wdb_extra input, #wdb_search input { margin-top: 10px; }
+#wdb_extra input.button, #wdb_search input.button { background-position: center; }
+input.button { background-image: url(../images/green_button.jpg); color: #FFFFFF; border: 2px solid #c0c0c0; background-position: center; }
+button.validate { background-image: url(../images/blue_button.jpg); color: #FFFFFF; border: 2px solid #c0c0c0; background-position: center; }
+dl.search-results { padding: 10px; border: 1px solid #a1a1a1; }
+dd.result-created { padding-bottom: 10px; border-bottom: 1px dashed #c0c0c0; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+.box .readmore, .box .readon, .box .pagenav { font-size: 11px; border: 1px solid #c0c0c0; padding: 2px 5px 2px 5px; background-image: url(../images/gray_button.jpg); background-position: center; }
+/*****************************/
+/****** Property of WDB ******/
+/*****************************/
+#wdb_content-left-only .cols-4 .column-1, #wdb_content-right-only .cols-4 .column-1 { width: 174px; float: left; }
+#wdb_content-left-only .cols-4 .column-2, #wdb_content-right-only .cols-4 .column-2 { width: 174px; float: left; margin-left: 11px; }
+#wdb_content-left-only .cols-4 .column-3, #wdb_content-right-only .cols-4 .column-3 { width: 174px; float: left; margin-left: 10px; }
+#wdb_content-left-only .cols-4 .column-4, #wdb_content-right-only .cols-4 .column-4 { width: 174px; float: right; }
+#wdb_content-left-only .cols-3 .column-1, #wdb_content-right-only .cols-3 .column-1 { width: 236px; float: left; }
+#wdb_content-left-only .cols-3 .column-2, #wdb_content-right-only .cols-3 .column-2 { width: 236px; float: left; margin-left: 10px; }
+#wdb_content-left-only .cols-3 .column-3, #wdb_content-right-only .cols-3 .column-3 { width: 236px; float: right; }
+#wdb_content-left-only .cols-2 .column-1, #wdb_content-right-only .cols-2 .column-1 { width: 359px; float: left; }
+#wdb_content-left-only .cols-2 .column-2, #wdb_content-right-only .cols-2 .column-2 { width: 359px; float: right; }
+#wdb_content-left-only .cols-1 .column-1, #wdb_content-right-only .cols-1 .column-1 { width: 728px; float: left; }
+#wdb_content-left-right .cols-3 .column-1 { width: 164px; float: left; }
+#wdb_content-left-right .cols-3 .column-2 { width: 164px; float: left; margin-left: 10px; }
+#wdb_content-left-right .cols-3 .column-3 { width: 164px; float: right; }
+#wdb_content-left-right .cols-2 .column-1 { width: 251px; float: left; }
+#wdb_content-left-right .cols-2 .column-2 { width: 251px; float: right; }
+#wdb_content-left-right .cols-1 .column-1 { width: 513px; float: left; }
+#wdb_content-wide .cols-6 .column-1 { width: 148px; float: left; }
+#wdb_content-wide .cols-6 .column-2 { width: 148px; float: left; margin-left: 10px; }
+#wdb_content-wide .cols-6 .column-3 { width: 148px; float: left; margin-left: 10px; }
+#wdb_content-wide .cols-6 .column-4 { width: 148px; float: left; margin-left: 10px; }
+#wdb_content-wide .cols-6 .column-5 { width: 148px; float: left; margin-left: 10px; }
+#wdb_content-wide .cols-6 .column-6 { width: 148px; float: right; }
+#wdb_content-wide .cols-5 .column-1 { width: 180px; float: left; }
+#wdb_content-wide .cols-5 .column-2 { width: 180px; float: left; margin-left: 11px; }
+#wdb_content-wide .cols-5 .column-3 { width: 180px; float: left; margin-left: 11px; }
+#wdb_content-wide .cols-5 .column-4 { width: 180px; float: left; margin-left: 10px; }
+#wdb_content-wide .cols-5 .column-5 { width: 180px; float: right; }
+#wdb_content-wide .cols-4 .column-1 { width: 228px; float: left; }
+#wdb_content-wide .cols-4 .column-2 { width: 228px; float: left; margin-left: 11px; }
+#wdb_content-wide .cols-4 .column-3 { width: 228px; float: left; margin-left: 11px; }
+#wdb_content-wide .cols-4 .column-4 { width: 228px; float: right; }
+#wdb_content-wide .cols-3 .column-1 { width: 307px; float: left; }
+#wdb_content-wide .cols-3 .column-2 { width: 307px; float: left; margin-left: 11px; }
+#wdb_content-wide .cols-3 .column-3 { width: 307px; float: right; }
+#wdb_content-wide .cols-2 .column-1 { width: 466px; float: left; }
+#wdb_content-wide .cols-2 .column-2 { width: 466px; float: right; }
+#wdb_content-wide .cols-1 .column-1 { width: 943px; float: left; }
+#wdb_content-left-inset .cols-3 .column-1, #wdb_content-right-inset .cols-3 .column-1 { width: 177px; float: left; }
+#wdb_content-left-inset .cols-3 .column-2, #wdb_content-right-inset .cols-3 .column-2 { width: 177px; float: left; margin-left: 11px; }
+#wdb_content-left-inset .cols-3 .column-3, #wdb_content-right-inset .cols-3 .column-3 { width: 177px; float: right; }
+#wdb_content-left-inset .cols-2 .column-1, #wdb_content-right-inset .cols-2 .column-1 { width: 271px; float: left; }
+#wdb_content-left-inset .cols-2 .column-2, #wdb_content-right-inset .cols-2 .column-2 { width: 271px; float: right; }
+#wdb_content-left-inset .cols-1 .column-1, #wdb_content-right-inset .cols-1 .column-1 { width: 553px; float: left; }
+#wdb_content-left-right-inset .cols-2 .column-1 { width: 164px; float: left; }
+#wdb_content-left-right-inset .cols-2 .column-2 { width: 164px; float: right; }
+#wdb_content-left-right-inset .cols-1 .column-1 { width: 338px; float: left; }
+#wdb_content-inset-only .cols-3 .column-1 { width: 190px; float: left; }
+#wdb_content-inset-only .cols-3 .column-2 { width: 190px; float: left; margin-left: 11px; }
+#wdb_content-inset-only .cols-3 .column-3 { width: 190px; float: right; }
+#wdb_content-inset-only .cols-2 .column-1 { width: 291px; float: left; }
+#wdb_content-inset-only .cols-2 .column-2 { width: 291px; float: right; }
+#wdb_content-inset-only .cols-1 .column-1 { width: 592px; float: left; }
+#wdb_content-left-only .cols-4 .column-1, #wdb_content-right-only .cols-4 .column-1, #wdb_content-left-only .cols-4 .column-2, #wdb_content-right-only .cols-4 .column-2, #wdb_content-left-only .cols-4 .column-3, #wdb_content-right-only .cols-4 .column-3, #wdb_content-left-only .cols-4 .column-4, #wdb_content-right-only .cols-4 .column-4, #wdb_content-left-only .cols-3 .column-1, #wdb_content-right-only .cols-3 .column-1, #wdb_content-left-only .cols-3 .column-2, #wdb_content-right-only .cols-3 .column-2, #wdb_content-left-only .cols-3 .column-3, #wdb_content-right-only .cols-3 .column-3, #wdb_content-left-only .cols-2 .column-1, #wdb_content-right-only .cols-2 .column-1, #wdb_content-left-only .cols-2 .column-2, #wdb_content-right-only .cols-2 .column-2, #wdb_content-left-only .cols-1 .column-1, #wdb_content-right-only .cols-1 .column-1, #wdb_content-left-right .cols-3 .column-1, #wdb_content-left-right .cols-3 .column-2, #wdb_content-left-right .cols-3 .column-3, #wdb_content-left-right .cols-2 .column-1, #wdb_content-left-right .cols-2 .column-2, #wdb_content-left-right .cols-1 .column-1, #wdb_content-wide .cols-6 .column-1, #wdb_content-wide .cols-6 .column-2, #wdb_content-wide .cols-6 .column-3, #wdb_content-wide .cols-6 .column-4, #wdb_content-wide .cols-6 .column-5, #wdb_content-wide .cols-6 .column-6, #wdb_content-wide .cols-5 .column-1, #wdb_content-wide .cols-5 .column-2, #wdb_content-wide .cols-5 .column-3, #wdb_content-wide .cols-5 .column-4, #wdb_content-wide .cols-5 .column-5, #wdb_content-wide .cols-4 .column-1, #wdb_content-wide .cols-4 .column-2, #wdb_content-wide .cols-4 .column-3, #wdb_content-wide .cols-4 .column-4, #wdb_content-wide .cols-3 .column-1, #wdb_content-wide .cols-3 .column-2, #wdb_content-wide .cols-3 .column-3, #wdb_content-wide .cols-2 .column-1, #wdb_content-wide .cols-2 .column-2, #wdb_content-wide .cols-1 .column-1, #wdb_content-left-inset .cols-3 .column-1, #wdb_content-right-inset .cols-3 .column-1, #wdb_content-left-inset .cols-3 .column-2, #wdb_content-right-inset .cols-3 .column-2, #wdb_content-left-inset .cols-3 .column-3, #wdb_content-right-inset .cols-3 .column-3, #wdb_content-left-inset .cols-2 .column-1, #wdb_content-right-inset .cols-2 .column-1, #wdb_content-left-inset .cols-2 .column-2, #wdb_content-right-inset .cols-2 .column-2, #wdb_content-left-inset .cols-1 .column-1, #wdb_content-right-inset .cols-1 .column-1, #wdb_content-left-right-inset .cols-2 .column-1, #wdb_content-left-right-inset .cols-2 .column-2, #wdb_content-left-right-inset .cols-1 .column-1, #wdb_content-inset-only .cols-3 .column-1, #wdb_content-inset-only .cols-3 .column-2, #wdb_content-inset-only .cols-3 .column-3, #wdb_content-inset-only .cols-2 .column-1, #wdb_content-inset-only .cols-2 .column-2, #wdb_content-inset-only .cols-1 .column-1 { overflow: hidden; }
